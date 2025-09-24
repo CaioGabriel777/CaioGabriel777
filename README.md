@@ -35,9 +35,7 @@
 
 <br/>
 
-<a href="https://github.com/CaioGabriel777" title="Perfil do Caio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioGabriel777&theme=dracula&show_icons=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGabriel777&layout=compact&theme=dracula" />
 
 ## Onde me encontrar
 
