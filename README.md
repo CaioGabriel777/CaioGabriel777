@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 - 🎓 Estudando ADS no Instituto Federal da Bahia.  
-- 💼 Trabalhando como desenvolvedor de software no Tribunal de Contas dos Municípios do Estado da Bahia.  
-- 🌱 Aprendendo mais sobre Java, Spring Boot e Docker.
+- 💼 Trabalhando como analista de software na Netra Tecnologia.  
+- 🌱 Aprendendo mais sobre Java, Spring Boot, Docker e Cloud.
 
 ## Minhas Skills
 
