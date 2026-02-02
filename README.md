@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 - 🎓 Estudando ADS no Instituto Federal da Bahia.  
-- 💼 Trabalhando como analista de software na Netra Tecnologia.  
+- 💼 Trabalhando como analista de sistemas na Netra Tecnologia.  
 - 🌱 Aprendendo mais sobre Java, Spring Boot, Docker e Cloud.
 
 ## Minhas Skills
