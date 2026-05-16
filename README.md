@@ -37,6 +37,6 @@ Analista de Sistemas Júnior baseado em Salvador - BA, apaixonado por arquitetur
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-amorim-67888b245/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-amorim-dev/)
 [![Gmail](https://img.shields.io/badge/-cgabriel.amorim@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cgabriel.amorim@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/CaioGabriel777?label=Follow&style=social)](https://github.com/CaioGabriel777)
