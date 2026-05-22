@@ -1,11 +1,8 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=CaioGabriel777&color=006bed" />
-</p>
-<h1 align="center">Olá, sou o Caio Gabriel👋</h1>
+<h1 align="center">Hi, I'm Caio Gabriel👋</h1>
 
 <p align="center">
-  <strong>Analista de Sistemas @ Netra Tecnologia / TCM-BA</strong><br/>
-  Focado em arquitetura de software e DevOps.
+  <strong>Systems Analyst @ Netra Tecnologia / TCM-BA</strong><br/>
+  Focused on software architecture and DevOps.
 </p>
 
 <p align="center">
